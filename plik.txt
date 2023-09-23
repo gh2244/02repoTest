@@ -1,2 +1,5 @@
 abcd
+Funkcjonalnosc1.
 Funkcjonalnosc2.
+fun1
+fun2
